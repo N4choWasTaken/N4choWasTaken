@@ -1,6 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4choWasTaken&layout=compact)](https://github.com/N4choWasTaken/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4choWasTaken&theme=synthwave&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4choWasTaken&layout=compact)](https://github.com/N4choWasTaken/github-readme-stats)
 
 <!--
 **N4choWasTaken/N4choWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
